@@ -23,10 +23,10 @@ h2 span:nth-child(1){
     overflow: hidden;
 }
 h2:hover span:nth-child(1){
-    transform: translateY(-36%);
+    transform: translateY(-36px);
 
 }
-h2:hover span:nth-child(2){
+h2 span:nth-child(2){
     position: absolute;
     top: 0;
     left: 0;
